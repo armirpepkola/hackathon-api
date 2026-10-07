@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Enterprise Hackathon Backend API (NestJS)
 
 >>>>>>> b6e187826e18d58ae92e5cb69c2057a4039f3df4
@@ -229,4 +227,3 @@ WHERE "email" = 'admin@yourdomain.com';
 
 ## License
 This project is open-source under the MIT License.
->>>>>>> b6e187826e18d58ae92e5cb69c2057a4039f3df4
